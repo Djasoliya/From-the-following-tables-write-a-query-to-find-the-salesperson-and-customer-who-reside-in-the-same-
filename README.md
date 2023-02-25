@@ -1,0 +1,1 @@
+# From-the-following-tables-write-a-query-to-find-the-salesperson-and-customer-who-reside-in-the-same-
